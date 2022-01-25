@@ -1,0 +1,16 @@
+{
+    "activity": {
+        "name": ""
+    },
+    "status": "dnd",
+
+    "domain": "https://rexom-3.plused51.repl.co",
+    "clientID": "339302714297024513",
+    "clientSECRET": "LMlZlklB-boioagO1oMtnr1KKLfBCt2Y",
+
+    "mainPrefix": "-",
+    "mainLang": "en",
+    "ownerID": "281802393446776833",
+
+   "panelType": "buttons"
+}
